@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
+<resources>
+  <string name="welcome">Welcome!</string>
+  <string name="save_as">Save as...</string>
+  <string name="view">View</string>
+  <string name="about">About...</string>
+  <string name="about_me">About Me</string>
+  <string name="current_password">Current Password</string>
+  <string name="new_password">New Password</string>
+  <string name="confirm_password">Confirm New Password</string>
+  <string name="change_password">Change Password</string>
+  <string name="password_recovery">Password recovery</string>
+  <string name="password_reset_success">Your password has been reset successfully!</string>
+  <string name="read_message">Read message</string>
+  <string name="confirm_delete">Are you sure you want to delete this message?</string>
+  <string name="search_in_messages">Search in messages</string>
+  <string name="compose_message">Compose Message</string>
+  <string name="no_date">No date provided</string>
+  <string name="quick_start">Quick Start</string>
+  <string name="test">Here is some %2$s, baby</string>
+</resources>
